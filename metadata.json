@@ -1,0 +1,6 @@
+{
+  "name": "AstraScent - Avatar & Aroma Alam Semestamu",
+  "description": "Temukan aroma dari bintangmu. AI pembuat persona kosmik dan parfum personal berbasis zodiak, suasana hati, dan gaya visual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
